@@ -12,7 +12,7 @@ This code demonstrates:
 The scene file (“PiRatio”) constructs animation that highlights the area ratio and demonstrates why π ≈ 3.14.  
 
 ## Video Preview
-<video src="animations/PiRatio.mp4" controls="controls" style="max-width: 600px;">
+<video src="https://github.com/user-attachments/assets/7f1e8691-ed83-4093-976c-a882033543b1" controls="controls" style="max-width: 400px;">
   Your browser does not support the video tag.
 </video>
 
