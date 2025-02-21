@@ -120,7 +120,7 @@ class WheelParadox(Scene):
 
     def draw_background(self):
         """
-        Draws a Gosper Curve in the background for visual appeal.
+        Draws a Gosper Curve in the background.
         """
         lines = GosperCurve.generate_lines(start_point=(3, 10), direction=(0.4, 0))
         lines_obj = VGroup(
