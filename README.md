@@ -7,7 +7,7 @@ The animations include a Monte Carlo approximation of π, an illustration of the
 
 ## About the Project
 
-This repository contains three animations:
+This repository contains four animations:
 
 ### PiGraph Animation
 This animation visualizes how the circumference of a circle is related to π.
